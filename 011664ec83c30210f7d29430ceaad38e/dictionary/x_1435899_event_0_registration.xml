@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b0b27cec83070210f7d29430ceaad3a0" label="Registration" max_length="40" name="x_1435899_event_0_registration" type="collection">
+        <element label="Registration Date" mandatory="true" max_length="40" name="registration_date" type="glide_date_time"/>
+        <element label="user" mandatory="true" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Event" mandatory="true" max_length="32" name="event" reference="x_1435899_event_0_event" type="reference"/>
+        <element choice="1" label="status" max_length="40" name="status" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="event"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
