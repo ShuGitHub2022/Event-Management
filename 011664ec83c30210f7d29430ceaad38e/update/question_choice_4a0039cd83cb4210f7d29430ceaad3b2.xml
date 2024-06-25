@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>1</order>
+        <published_ref/>
+        <question display_value="Event Type">420039cd83cb4210f7d29430ceaad397</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-25 18:19:27</sys_created_on>
+        <sys_id>4a0039cd83cb4210f7d29430ceaad3b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>In Person</sys_name>
+        <sys_package display_value="Event Management" source="x_1435899_event_0">011664ec83c30210f7d29430ceaad38e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Management">011664ec83c30210f7d29430ceaad38e</sys_scope>
+        <sys_update_name>question_choice_4a0039cd83cb4210f7d29430ceaad3b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-25 18:19:27</sys_updated_on>
+        <text>In Person</text>
+        <value>in_person</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=4a0039cd83cb4210f7d29430ceaad3b2"/>
+</record_update>

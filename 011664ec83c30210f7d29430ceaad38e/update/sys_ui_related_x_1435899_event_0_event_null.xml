@@ -2,17 +2,31 @@
     <sys_ui_related sys_domain="global" table="x_1435899_event_0_event" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Event - Default view" name="x_1435899_event_0_event" related_list="NULL" sys_domain="global" view="Default view">b41f957483870210f7d29430ceaad36a</list_id>
+            <list_id display_value="Event - Default view" name="x_1435899_event_0_event" related_list="NULL" sys_domain="global" view="Default view">079df44d83c74210f7d29430ceaad3f9</list_id>
             <order_by/>
             <position>0</position>
             <related_list>x_1435899_event_0_registration.event</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 22:26:52</sys_created_on>
-            <sys_id>7c1f957483870210f7d29430ceaad36b</sys_id>
+            <sys_created_on>2024-06-25 14:39:09</sys_created_on>
+            <sys_id>cb9df44d83c74210f7d29430ceaad3fa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 22:26:52</sys_updated_on>
+            <sys_updated_on>2024-06-25 14:39:09</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Event - Default view" name="x_1435899_event_0_event" related_list="NULL" sys_domain="global" view="Default view">079df44d83c74210f7d29430ceaad3f9</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>REL:e96a784983c74210f7d29430ceaad388</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-25 14:39:09</sys_created_on>
+            <sys_id>c39df44d83c74210f7d29430ceaad3fb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-25 14:39:09</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>Event - Default view</calculated_name>
@@ -23,10 +37,10 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 22:26:52</sys_created_on>
+            <sys_created_on>2024-06-25 14:39:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b41f957483870210f7d29430ceaad36a</sys_id>
+            <sys_id>079df44d83c74210f7d29430ceaad3f9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Event - Default view</sys_name>
             <sys_package display_value="Event Management" source="x_1435899_event_0">011664ec83c30210f7d29430ceaad38e</sys_package>
@@ -34,7 +48,7 @@
             <sys_scope display_value="Event Management">011664ec83c30210f7d29430ceaad38e</sys_scope>
             <sys_update_name>sys_ui_related_x_1435899_event_0_event_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 22:26:52</sys_updated_on>
+            <sys_updated_on>2024-06-25 14:39:09</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
