@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="date" table="x_1435899_event_0_event">
-        <active>true</active>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="registered" table="x_1435899_event_0_event">
+        <active>false</active>
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Date</column_label>
+        <column_label>Registered</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -26,19 +21,19 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>date</element>
+        <element>registered</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
-        <function_definition/>
-        <function_field>false</function_field>
-        <internal_type display_value="">glide_date</internal_type>
-        <mandatory>true</mandatory>
-        <max_length>40</max_length>
+        <function_definition>Count all registered attendees</function_definition>
+        <function_field>true</function_field>
+        <internal_type display_value="Integer">integer</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>255</max_length>
         <name>x_1435899_event_0_event</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -51,14 +46,14 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-06-24 00:15:46</sys_created_on>
-        <sys_name>Date</sys_name>
+        <sys_created_on>2024-06-24 23:58:44</sys_created_on>
+        <sys_name>Registered</sys_name>
         <sys_package display_value="Event Management" source="x_1435899_event_0">011664ec83c30210f7d29430ceaad38e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Event Management">011664ec83c30210f7d29430ceaad38e</sys_scope>
-        <sys_update_name>sys_dictionary_x_1435899_event_0_event_date</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1435899_event_0_event_registered</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-06-24 00:15:47</sys_updated_on>
+        <sys_updated_on>2024-06-25 00:06:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

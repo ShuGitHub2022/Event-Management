@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout_item">
+    <sys_ux_form_action_layout_item action="INSERT_OR_UPDATE">
+        <action display_value="Cancel">e54569bc83870210f7d29430ceaad394</action>
+        <active>true</active>
+        <color>secondary</color>
+        <description/>
+        <icon/>
+        <item_type>action</item_type>
+        <label>Cancel</label>
+        <layout_group/>
+        <name>Cancel</name>
+        <order>100</order>
+        <overflow>false</overflow>
+        <sys_class_name>sys_ux_form_action_layout_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 22:53:58</sys_created_on>
+        <sys_id>2d4569bc83870210f7d29430ceaad397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cancel</sys_name>
+        <sys_package display_value="Event Management" source="x_1435899_event_0">011664ec83c30210f7d29430ceaad38e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Management">011664ec83c30210f7d29430ceaad38e</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_item_2d4569bc83870210f7d29430ceaad397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 22:53:58</sys_updated_on>
+        <table>x_1435899_event_0_registration</table>
+    </sys_ux_form_action_layout_item>
+</record_update>

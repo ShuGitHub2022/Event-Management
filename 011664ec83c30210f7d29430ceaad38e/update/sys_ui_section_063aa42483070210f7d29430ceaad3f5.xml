@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>1e21f86c83070210f7d29430ceaad340</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6a16f574830b0210f7d29430ceaad326</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,167 +18,223 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>1621f86c83070210f7d29430ceaad341</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6616f574830b0210f7d29430ceaad327</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>event_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6e16f574830b0210f7d29430ceaad327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>location</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>1e21f86c83070210f7d29430ceaad341</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6616f574830b0210f7d29430ceaad328</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>link</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6e16f574830b0210f7d29430ceaad328</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>organizer</element>
-            <position>3</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>1621f86c83070210f7d29430ceaad342</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6616f574830b0210f7d29430ceaad329</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>manager</element>
-            <position>4</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>1e21f86c83070210f7d29430ceaad342</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6e16f574830b0210f7d29430ceaad329</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>1621f86c83070210f7d29430ceaad343</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6616f574830b0210f7d29430ceaad32a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>date</element>
-            <position>6</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>9a21f86c83070210f7d29430ceaad35c</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>6e16f574830b0210f7d29430ceaad32a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>start</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>9221f86c83070210f7d29430ceaad35d</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2e16f574830b0210f7d29430ceaad337</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>end</element>
-            <position>8</position>
+            <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>9a21f86c83070210f7d29430ceaad35d</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2616f574830b0210f7d29430ceaad338</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>9</position>
+            <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>9221f86c83070210f7d29430ceaad35e</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2e16f574830b0210f7d29430ceaad338</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>max_capacity</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2616f574830b0210f7d29430ceaad339</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>registere0</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2e16f574830b0210f7d29430ceaad339</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>10</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>9a21f86c83070210f7d29430ceaad35e</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2616f574830b0210f7d29430ceaad33a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>11</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>9221f86c83070210f7d29430ceaad35f</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2e16f574830b0210f7d29430ceaad33a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>12</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-06-24 00:27:48</sys_created_on>
-            <sys_id>9a21f86c83070210f7d29430ceaad35f</sys_id>
+            <sys_created_on>2024-06-25 00:07:29</sys_created_on>
+            <sys_id>2616f574830b0210f7d29430ceaad33b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Event" display_value="Event" name="x_1435899_event_0_event" sys_domain="global" view="Default view">063aa42483070210f7d29430ceaad3f5</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-06-24 00:27:48</sys_updated_on>
+            <sys_updated_on>2024-06-25 00:07:29</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

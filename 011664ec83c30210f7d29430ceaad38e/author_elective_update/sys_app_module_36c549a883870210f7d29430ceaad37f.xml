@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Event Management">cfc7f0e483470210f7d29430ceaad38e</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>REPORT</link_type>
+        <map_page/>
+        <mobile_title>Event Report</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>admin,x_1435899_event_0.event_organizer,x_1435899_event_0.event_manager,x_1435899_event_0.event_analyst</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 01:58:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>36c549a883870210f7d29430ceaad37f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Event Report</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Event Management" source="x_1435899_event_0">011664ec83c30210f7d29430ceaad38e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Management">011664ec83c30210f7d29430ceaad38e</sys_scope>
+        <sys_update_name>sys_app_module_36c549a883870210f7d29430ceaad37f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 02:02:08</sys_updated_on>
+        <timeline_page/>
+        <title>Event Report</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Event Management">011664ec83c30210f7d29430ceaad38e</application>
+        <file_path/>
+        <instance_id>c210135f1bb94298e84d2f8dee4bcb39</instance_id>
+        <instance_name>dev262777</instance_name>
+        <name>sys_app_module_36c549a883870210f7d29430ceaad37f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Event Management">cfc7f0e483470210f7d29430ceaad38e</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>REPORT</link_type><map_page/><mobile_title>Event Report</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>400</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>admin,x_1435899_event_0.event_organizer,x_1435899_event_0.event_manager,x_1435899_event_0.event_analyst</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-24 01:58:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>36c549a883870210f7d29430ceaad37f</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Event Report</sys_name><sys_overrides/><sys_package display_value="Event Management" source="x_1435899_event_0">011664ec83c30210f7d29430ceaad38e</sys_package><sys_policy/><sys_scope display_value="Event Management">011664ec83c30210f7d29430ceaad38e</sys_scope><sys_update_name>sys_app_module_36c549a883870210f7d29430ceaad37f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-24 02:02:08</sys_updated_on><timeline_page/><title>Event Report</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1713724159</payload_hash>
+        <record_name>Event Report</record_name>
+        <reverted_from/>
+        <source>ebd4bc6083470210f7d29430ceaad359</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 02:02:08</sys_created_on>
+        <sys_id>68c64de883870210f7d29430ceaad376</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19047faacd30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 02:02:08</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ecc64de871870210ca0fa2aaa7777875</update_guid>
+        <update_guid_history>ecc64de871870210ca0fa2aaa7777875:-1713724159,0d06c968c287021039e9fcab8f1bfb3d:220708397</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Event Report">eb8f1d7483870210f7d29430ceaad310</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-24 22:28:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3bd463657b1b424695f615428e2124a4</sys_id>
+        <sys_metadata>36c549a883870210f7d29430ceaad37f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Event Report</sys_name>
+        <sys_package display_value="Event Management" source="x_1435899_event_0">011664ec83c30210f7d29430ceaad38e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Event Management">011664ec83c30210f7d29430ceaad38e</sys_scope>
+        <sys_scope_delete display_value="">08743be2e3c14eb081a4588e2bd0b900</sys_scope_delete>
+        <sys_update_name>sys_app_module_36c549a883870210f7d29430ceaad37f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_36c549a883870210f7d29430ceaad37f">68c64de883870210f7d29430ceaad376</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-24 22:28:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
